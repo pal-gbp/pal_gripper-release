@@ -1,0 +1,164 @@
+ros-humble-pal-gripper (3.4.0-1jammy) jammy; urgency=high
+
+
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Tue, 05 Nov 2024 00:00:00 -0000
+
+ros-humble-pal-gripper (3.3.0-1jammy) jammy; urgency=high
+
+
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Wed, 07 Aug 2024 00:00:00 -0000
+
+ros-humble-pal-gripper (3.2.0-1jammy) jammy; urgency=high
+
+
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Tue, 18 Jun 2024 00:00:00 -0000
+
+ros-humble-pal-gripper (3.1.0-1jammy) jammy; urgency=high
+
+  * Merge branch 'tiago-dual' into 'humble-devel'
+    Adapted pal_gripper_controller_configuration to ros2
+    See merge request robots/pal_gripper!32
+  * CMake version to 3.8
+  * Contributors: David ter Kuile, davidterkuile
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Thu, 18 Jan 2024 00:00:00 -0000
+
+ros-humble-pal-gripper (3.0.7-1jammy) jammy; urgency=high
+
+
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Tue, 12 Dec 2023 00:00:00 -0000
+
+ros-humble-pal-gripper (3.0.6-1jammy) jammy; urgency=high
+
+
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Mon, 11 Dec 2023 00:00:00 -0000
+
+ros-humble-pal-gripper (3.0.5-1jammy) jammy; urgency=high
+
+  * Add website tag
+  * Contributors: Noel Jimenez
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Tue, 14 Nov 2023 00:00:00 -0000
+
+ros-humble-pal-gripper (3.0.4-1jammy) jammy; urgency=high
+
+
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Mon, 17 Apr 2023 00:00:00 -0000
+
+ros-humble-pal-gripper (3.0.3-1jammy) jammy; urgency=high
+
+
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Wed, 01 Mar 2023 00:00:00 -0000
+
+ros-humble-pal-gripper (3.0.2-1jammy) jammy; urgency=high
+
+
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Wed, 08 Feb 2023 00:00:00 -0000
+
+ros-humble-pal-gripper (3.0.1-1jammy) jammy; urgency=high
+
+
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Thu, 15 Dec 2022 00:00:00 -0000
+
+ros-humble-pal-gripper (3.0.0-1jammy) jammy; urgency=high
+
+  * Merge branch 'update_copyright' into 'humble-devel'
+    Update copyright and add LICENSE
+    See merge request robots/pal_gripper!15
+  * update copyright and add license
+  * Merge branch 'update_maintainers' into 'humble-devel'
+    update maintainers
+    See merge request robots/pal_gripper!14
+  * update maintainers
+  * ros2 format. Disabled some packages
+  * Contributors: Jordan Palacios, Noel Jimenez
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Wed, 26 Oct 2022 00:00:00 -0000
+
+ros-humble-pal-gripper (1.0.3-1jammy) jammy; urgency=high
+
+
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Thu, 30 Apr 2020 00:00:00 -0000
+
+ros-humble-pal-gripper (1.0.2-1jammy) jammy; urgency=high
+
+
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Tue, 11 Jun 2019 00:00:00 -0000
+
+ros-humble-pal-gripper (1.0.1-1jammy) jammy; urgency=high
+
+
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Tue, 26 Mar 2019 00:00:00 -0000
+
+ros-humble-pal-gripper (1.0.0-1jammy) jammy; urgency=high
+
+
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Mon, 30 Jul 2018 00:00:00 -0000
+
+ros-humble-pal-gripper (0.0.13-1jammy) jammy; urgency=high
+
+
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Fri, 13 Apr 2018 00:00:00 -0000
+
+ros-humble-pal-gripper (0.0.12-1jammy) jammy; urgency=high
+
+
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Tue, 20 Feb 2018 00:00:00 -0000
+
+ros-humble-pal-gripper (0.0.11-1jammy) jammy; urgency=high
+
+
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Wed, 24 Jan 2018 00:00:00 -0000
+
+ros-humble-pal-gripper (0.0.10-1jammy) jammy; urgency=high
+
+  * move scripts and config files from tiago_robot
+  * Contributors: Jordi Pages
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Wed, 24 Jan 2018 00:00:00 -0000
+
+ros-humble-pal-gripper (0.0.9-1jammy) jammy; urgency=high
+
+  * fix maintainer
+  * 0.0.8
+  * Update changelog
+  * 0.0.7
+  * Update changelogs
+  * 0.0.6
+  * Update cahngelog
+  * 0.0.5
+  * Update changelog
+  * 0.0.4
+  * Update changelgo
+  * 0.0.3
+  * Update changelogs
+  * 0.0.2
+  * Updated the changelog
+  * Contributors: Hilario Tome, Jordi Pages, Sam Pfeiffer, Victor Lopez
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Fri, 14 Oct 2016 00:00:00 -0000
+
+ros-humble-pal-gripper (0.0.1-1jammy) jammy; urgency=high
+
+  * Initial version
+  * Contributors: Sam Pfeiffer
+
+ -- TIAGo support team <tiago-support@pal-robotics.com>  Wed, 01 Jun 2016 00:00:00 -0000
+
+
