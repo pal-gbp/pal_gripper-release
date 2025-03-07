@@ -1,0 +1,188 @@
+ros-humble-pal-gripper-simulation (3.5.0-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 16 Dec 2024 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.4.0-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 05 Nov 2024 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.3.0-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Wed, 07 Aug 2024 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.2.0-1jammy) jammy; urgency=high
+
+  * remove unnecessary find_package
+  * add joint_broadcaster controlker
+  * create pal_gripper_simulation package
+  * Contributors: Aina Irisarri
+  * remove unnecessary find_package
+  * add joint_broadcaster controlker
+  * create pal_gripper_simulation package
+  * Contributors: Aina Irisarri
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 18 Jun 2024 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.1.0-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Thu, 18 Jan 2024 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.0.7-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 12 Dec 2023 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.0.6-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 11 Dec 2023 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.0.5-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 14 Nov 2023 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.0.4-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 17 Apr 2023 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.0.3-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Wed, 01 Mar 2023 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.0.2-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Wed, 08 Feb 2023 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.0.1-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Thu, 15 Dec 2022 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.0.0-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Wed, 26 Oct 2022 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (1.0.3-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Thu, 30 Apr 2020 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (1.0.2-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 11 Jun 2019 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (1.0.1-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 26 Mar 2019 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (1.0.0-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 30 Jul 2018 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.13-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Fri, 13 Apr 2018 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.12-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 20 Feb 2018 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.11-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Wed, 24 Jan 2018 17:11:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.10-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Wed, 24 Jan 2018 11:23:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.9-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Fri, 14 Oct 2016 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.8-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 20 Sep 2016 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.7-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Thu, 28 Jul 2016 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.6-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Fri, 22 Jul 2016 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.5-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Wed, 15 Jun 2016 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.4-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 13 Jun 2016 14:30:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.3-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 13 Jun 2016 12:53:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.2-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Fri, 10 Jun 2016 00:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.1-1jammy) jammy; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Wed, 01 Jun 2016 00:00:00 -0000
+
+
