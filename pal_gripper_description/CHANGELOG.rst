@@ -2,6 +2,17 @@
 Changelog for package pal_gripper_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.6.0 (2025-10-29)
+------------------
+
+3.5.1 (2025-08-18)
+------------------
+* Merge branch 'tpe/fix_collision' into 'humble-devel'
+  Align collision with real model
+  See merge request robots/pal_gripper!38
+* Align collision with real model
+* Contributors: thomas.peyrucain, thomaspeyrucain
+
 3.5.0 (2024-12-16)
 ------------------
 * Fix inertia + update interface link to match the real interface of the gripper
