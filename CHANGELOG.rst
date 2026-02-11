@@ -2,6 +2,25 @@
 Changelog for package pal_gripper_simulation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.6.5 (2026-02-10)
+------------------
+* formatting problem solved
+* addition of property for gazebo_version
+* gazebo version arg missing
+* Contributors: Michela Cavuoto
+
+3.6.4 (2026-01-30)
+------------------
+
+3.6.3 (2026-01-29)
+------------------
+
+3.6.2 (2026-01-08)
+------------------
+
+3.6.1 (2025-11-11)
+------------------
+
 3.6.0 (2025-10-29)
 ------------------
 
