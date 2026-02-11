@@ -2,6 +2,34 @@
 Changelog for package pal_gripper_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.6.5 (2026-02-10)
+------------------
+* addition of property for gazebo_version
+* gazebo version arg missing
+* Contributors: Michela Cavuoto
+
+3.6.4 (2026-01-30)
+------------------
+* Add support for new gazebo
+* Contributors: thomaspeyrucain
+
+3.6.3 (2026-01-29)
+------------------
+* Use package instead of find for meshes lookup
+  This change avoids errors when visualizing the robot in rviz2 from a
+  remote host instead of directly inside the robot
+* Contributors: Noel Jimenez
+
+3.6.2 (2026-01-08)
+------------------
+* Change the way of finding packages for meshes
+* Contributors: Noel Jimenez
+
+3.6.1 (2025-11-11)
+------------------
+* Fix finger position
+* Contributors: thomas.peyrucain
+
 3.6.0 (2025-10-29)
 ------------------
 
